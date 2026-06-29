@@ -21,7 +21,7 @@
         "dutchcodingcompany/filament-developer-logins": "^1.10",
         "filament/filament": "^3.3",
         "jeffersongoncalves/filament-additional-information": "^1.0",
-        "jeffersongoncalves/filament-erp": "1.x-dev",
+        "jeffersongoncalves/filament-erp": "^1.0",
         "jeffersongoncalves/filament-logo": "^1.0",
         "jeffersongoncalves/filament-pwa": "^1.0",
         "jeffersongoncalves/filament-sensible-defaults": "^1.0",
